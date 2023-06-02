@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lophersson, I´m born in 1981 in Ferrol (Spain)
-- 👀 I’m interested in computing, accountant, chocolate and pizza 🍫🍕😛💦
+- 👀 I’m interested in computing, accounting, chocolate and pizza 🍫🍕😛💦
 - 🌱 I’m currently learning python 🐍
 - 💰 I’m looking to collaborate on investments 💰
 - 😍 I´m single and looking for a girlfriend, i want to have children 💝👩‍❤️‍👨👶
