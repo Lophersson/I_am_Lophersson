@@ -24,3 +24,4 @@ def consulta():
     df.to_excel("df.xlsx")
     print("df.head(21)=",df.head(21))
 consulta()
+
