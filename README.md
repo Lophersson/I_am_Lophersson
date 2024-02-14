@@ -3,7 +3,7 @@
 - 🎵 My favorite music is jazz, although I also listen to house, hip-hop, and rock 🎷🎸🎤
 - 🌱 I’m currently learning web developing 💻
 - 💰 I’m looking to collaborate on investments and other business 💰😎✌️
-- 😍 I´m single and looking for a girlfriend, I want to have children 💝👩‍❤️‍👨👶
+- 😍 I´m a single man and looking for a girlfriend, I want to have children 💝👩‍❤️‍👨👶
 - 📫 How to reach me: @lophersson
 
 <!---
