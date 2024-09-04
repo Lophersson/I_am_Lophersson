@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning web developing 💻
 - 💰 I’m looking to collaborate on investments and other business 💰😎✌️
 - 😍 I´m a single man and looking for a girlfriend, I want to have children 💝👩‍❤️‍👨👶
-- 📫 How to reach me: @lophersson
+- 📫 How to reach me on RRSS: @lophersson
 
 <!---
 Lophersson/Lophersson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
